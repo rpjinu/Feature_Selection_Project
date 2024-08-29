@@ -1,6 +1,6 @@
 # Feature_Selection_Project
 "All  project in this Repository focused on selecting the most significant features for machine learning models"
-To perform filter-based feature selection on the "UCI SECOM" dataset, which has 592 columns and a target column called "Pass/Fail," we can utilize the following methods:
+To perform filter-based feature selection:\
 
 1.Duplicate Features:
 
