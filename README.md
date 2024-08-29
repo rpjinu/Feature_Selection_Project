@@ -19,7 +19,7 @@ High correlation between features indicates redundancy, and removing one from ea
 
 Perform an ANOVA test between each feature and the target variable ("Pass/Fail").\
 Select features with a significant impact on the target variable.\
-Set a significance level (e.g., p-value threshold) for the test to determine the importance of each feature.\
+Set a significance level (e.g., p-value threshold) for the test to determine the importance of each feature.
 
 5.Chi-Squared:
 
