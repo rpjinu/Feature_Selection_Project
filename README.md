@@ -9,7 +9,7 @@ Identify and remove duplicate columns from the dataset. Columns with identical v
 
 Calculate the variance of each feature.\
 Remove features with low variance, as they tend to have little or no predictive power.\
-Set a threshold value for variance and remove features below that threshold.
+Set a threshold value for variance and remove features below that threshold.\
 3.Correlation:
 
 Compute the correlation matrix of the features.\
