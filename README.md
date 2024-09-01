@@ -1,5 +1,9 @@
 # Feature_Selection_Project
 "All  project in this Repository focused on selecting the most significant features for machine learning models"\
+
+<img src="https://github.com/rpjinu/Feature_Selection_Project/blob/main/feature%20selection_image.png" width=1200>
+
+
 To perform Filter-based feature selection:
 
 **1.Duplicate Features:**
